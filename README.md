@@ -58,16 +58,6 @@ Full-stack developer passionate about building scalable web applications, crafti
 
 ---
 
-## 📚 Latest Articles
-
-I share my knowledge and experience through technical writing on Medium:
-
-- 📖 [Getting Started with React: A Beginner's Guide to Setting Up Your First Application](https://medium.com/@regondaakhil1509/getting-started-with-react-a-beginners-guide-to-setting-up-your-first-application-a6d8a1ae414)
-- 📖 [Pushing Your First React App to GitHub: A Step-by-Step Guide](https://medium.com/@regondaakhil1509/pushing-your-first-react-app-to-github-a-step-by-step-guide-f7b592e67658)
-- 📖 [The Ultimate Checklist for Starting a React Project: Best Practices and Tips](https://medium.com/@regondaakhil1509/the-ultimate-checklist-for-starting-a-react-project-best-practices-and-tips-b73337b9b173)
-
----
-
 ## 📊 GitHub Stats
 
 [![Gunde Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUNDESANDEEP&show_icons=true&theme=radical)](https://github.com/GUNDESANDEEP)
@@ -80,10 +70,9 @@ I share my knowledge and experience through technical writing on Medium:
 
 I'd love to collaborate, discuss tech, or connect! Find me on:
 
-- 💼 [LinkedIn](link)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gunde-sandeep)
 - 🐦 [Twitter](link)
-- 📝 [Medium](https://medium.com/@regondaakhil1509)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Email: [gundesandeep2005@gmail.com](mailto:gundesandeep2005@gmail.com)
 
 ---
 
