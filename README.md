@@ -76,14 +76,6 @@ I'd love to collaborate, discuss tech, or connect! Find me on:
 
 ---
 
-## ☕ Support My Work
-
-If you find my projects helpful or enjoy my articles, consider treating me to a coffee/tea! ☕
-
-<a href="https://www.buymeacoffee.com/cycosad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
----
-
 ## 🎯 Currently
 
 - 🚀 Building scalable web applications
